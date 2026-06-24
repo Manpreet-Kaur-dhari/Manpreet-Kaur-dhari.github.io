@@ -4,13 +4,22 @@ This is a personal portfolio project.
 
 Visit Site: 
 
-Usage
+## Usage
 
-Clone the repository:
-git clone 
-Navigate to the project directory:
+1. Clone the repository:
+
+```bash
+git clone https:
+```
+
+2. Navigate to the project directory:
+
+```bash
 cd Portfolio
-Open index.html in your web browser to view the portfolio.
-Contributing
+```
+
+3. Open `index.html` in your web browser to view the portfolio.
+
+## Contributing
 
 Contributions are welcome! If you find any issues or want to suggest improvements, feel free to open an issue or create a pull request.
