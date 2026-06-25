@@ -2,14 +2,14 @@
 
 This is a personal portfolio project.
 
-Visit Site: 
+Visit Site: https://manpreet-kaur-dhari.github.io
 
 ## Usage
 
 1. Clone the repository:
 
 ```bash
-git clone https:
+git clone :https://manpreet-kaur-dhari.github.io
 ```
 
 2. Navigate to the project directory:
